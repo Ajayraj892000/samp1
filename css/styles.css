@@ -5,7 +5,7 @@ body{
    font-size:  25px;
 }
 .top-container{
-    background-color: khaki;
+    background-color: white;
     padding-top: 50px;
 }
 .middle-container{
@@ -19,7 +19,7 @@ body{
 h1{
     margin: 0;
     font-family: 'Sevillana', cursive;
-    font-size: 5.6rem;
+    font-size: 8rem;
     margin: 50px auto 0 auto;
     color: #66BFBF;
     line-height: 2;
